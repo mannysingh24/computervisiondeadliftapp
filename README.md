@@ -4,7 +4,7 @@ A simple use computer vision application used to count the reps of deadlifts by 
 
 This application was created using the programming language Python.
 
-![Screenshot](screenshot.png)
+![Screenshot](images/img.PNG)
 
 # References 
 Nicholas Renotte
